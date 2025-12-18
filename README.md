@@ -38,7 +38,7 @@ The sample selected(2PM,No Urgent Place) gives us an acceptance rate of 86.60%.
 - single male or
 - divorced male or
 - time around 10am or
-is more likely to accpet the [Coffee House] than average acceptance rate (49.63%)
+is more likely to accpet the [Coffee House] than average acceptance rate (49.63%).
 The sample selected(below21,Male) gives us an acceptance rate of 81.93%.
 
 5. Restaurant(<20) coupon, drivers under the conditions of 
@@ -47,5 +47,5 @@ The sample selected(below21,Male) gives us an acceptance rate of 81.93%.
 - age 41 male or
 - divorced male or
 - time around 2-6 pm or
-is more likely to accpet the [Restaurant(<20)] coupon than average acceptance rate (70.90%)
+is more likely to accpet the [Restaurant(<20)] coupon than average acceptance rate (70.90%).
 The sample selected(6pm) gives us an acceptance rate of 82.66%.
